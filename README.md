@@ -45,6 +45,17 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 - iam-access-denied.png
 - iam-userpolicy.png
 
-## Project 4 - VPC with Public & Private Subnets 🔄 Coming Soon
+## Project 4 - VPC with Public & Private Subnets ✅
+
+**What I did:**
+- Created a custom VPC with CIDR block 10.0.0.0/16
+- Configured 2 public subnets and 2 private subnets
+- Set up Route Tables and Internet Gateway
+- Enabled DNS hostnames and DNS resolution
+
+**Skills demonstrated:** VPC, Subnets, Route Tables, Internet Gateway, Network Architecture
+
+**Live proof:**
+vpc-created.jpeg
 
 ## Project 5 - CloudWatch Monitoring 🔄 Coming Soon
