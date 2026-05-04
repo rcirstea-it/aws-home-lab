@@ -14,6 +14,7 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 - Hosted a live webpage accessible via public IP
 
 **Skills demonstrated:** EC2, Security Groups, SSH, Linux CLI, Apache
+
 **Live proof:**
 -ec2webserver.jpeg
 
