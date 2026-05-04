@@ -17,7 +17,15 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 
 ---
 
-## Project 2 - S3 Static Hosting 🔄 Coming Soon
+## Project 2 - S3 Storage & Permissions ✅
+
+**What I did:**
+- Created an S3 bucket in eu-west-2 London
+- Configured ACLs and public access settings
+- Uploaded a file and made it publicly accessible via Object URL
+- Understood S3 permissions model (private vs public-read)
+
+**Skills demonstrated:** S3, ACLs, Bucket Policies, Public Access settings
 
 ## Project 3 - IAM Users & Policies 🔄 Coming Soon
 
