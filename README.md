@@ -26,7 +26,8 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 - Understood S3 permissions model (private vs public-read)
 
 **Skills demonstrated:** S3, ACLs, Bucket Policies, Public Access settings
-
+**Live proof:**
+- S3 Object URL: https://razvan-aws-lab-bucket.s3.eu-west-2.amazonaws.com/osi-model-7-layers-1.png
 ## Project 3 - IAM Users & Policies 🔄 Coming Soon
 
 ## Project 4 - VPC with Public & Private Subnets 🔄 Coming Soon
