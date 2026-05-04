@@ -29,8 +29,16 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** S3, ACLs, Bucket Policies, Public Access settings
 **Live proof:**
 - S3 Object URL: https://razvan-aws-lab-bucket.s3.eu-west-2.amazonaws.com/osi-model-7-layers-1.png
-## Project 3 - IAM Users & Policies 🔄 Coming Soon
 
+## Project 3 - IAM Users & Policies ✅
+
+**What I did:**
+- Created an IAM user (razvan-lab-user) in AWS Console
+- Attached AmazonS3ReadOnlyAccess policy
+- Tested Least Privilege principle — user could read S3 but not write
+- Understood difference between IAM users, policies, and permissions
+
+**Skills demonstrated:** IAM, Users, Policies, Least Privilege, AWS Security
 ## Project 4 - VPC with Public & Private Subnets 🔄 Coming Soon
 
 ## Project 5 - CloudWatch Monitoring 🔄 Coming Soon
