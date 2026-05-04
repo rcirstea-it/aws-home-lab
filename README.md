@@ -42,8 +42,8 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** IAM, Users, Policies, Least Privilege, AWS Security
 
 **Live proof:**
-iam-access-denied.png
-iam-userpolicy.png
+- iam-access-denied.png
+- iam-userpolicy.png
 
 ## Project 4 - VPC with Public & Private Subnets 🔄 Coming Soon
 
