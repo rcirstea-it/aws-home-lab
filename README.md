@@ -58,4 +58,16 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Live proof:**
 vpc-created.jpeg
 
-## Project 5 - CloudWatch Monitoring 🔄 Coming Soon
+## Project 5 - CloudWatch Monitoring ✅
+
+**What I did:**
+- Created a CloudWatch alarm monitoring EC2 CPU utilization
+- Set threshold at 80% CPU usage
+- Configured SNS notification topic for email alerts
+- Understood AWS monitoring and alerting best practices
+
+**Skills demonstrated:** CloudWatch, Alarms, SNS, EC2 Monitoring, AWS Observability
+
+**Live proof:**
+cloudwatch-alarm.jpeg
+
