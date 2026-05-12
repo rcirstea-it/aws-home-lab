@@ -16,7 +16,7 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** EC2, Security Groups, SSH, Linux CLI, Apache
 
 **Live proof:**
--ec2webserver.jpeg
+![EC2 Web Server](ec2webserver.jpeg)
 
 ## Project 2 - S3 Storage & Permissions ✅
 
@@ -29,7 +29,7 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** S3, ACLs, Bucket Policies, Public Access settings
 
 **Live proof:**
-- S3 Object URL: https://razvan-aws-lab-bucket.s3.eu-west-2.amazonaws.com/osi-model-7-layers-1.png
+- [S3 Object URL](https://razvan-aws-lab-bucket.s3.eu-west-2.amazonaws.com/osi-model-7-layers-1.png)
 
 ## Project 3 - IAM Users & Policies ✅
 
@@ -42,8 +42,8 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** IAM, Users, Policies, Least Privilege, AWS Security
 
 **Live proof:**
-- iam-access-denied.png
-- iam-userpolicy.png
+![IAM User Policy](iam-user-policy.png)
+![IAM Access Denied](iam-access-denied.png)
 
 ## Project 4 - VPC with Public & Private Subnets ✅
 
@@ -56,7 +56,7 @@ Hands-on AWS projects built while studying for AWS Cloud Practitioner and Soluti
 **Skills demonstrated:** VPC, Subnets, Route Tables, Internet Gateway, Network Architecture
 
 **Live proof:**
-vpc-created.jpeg
+![VPC Created](vpc-created.png)
 
 ## Project 5 - CloudWatch Monitoring ✅
 
@@ -69,5 +69,5 @@ vpc-created.jpeg
 **Skills demonstrated:** CloudWatch, Alarms, SNS, EC2 Monitoring, AWS Observability
 
 **Live proof:**
-cloudwatch-alarm.jpeg
+![CloudWatch Alarm](cloudwatch-alarm.png)
 
